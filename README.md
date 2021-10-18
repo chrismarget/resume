@@ -24,7 +24,7 @@ campus and remote offices.
 - All aspects of this role performed to the standards befitting a critical
 life-safety and emergency communications system.
 - Designed, implemented and managed a 5x hub, ~1000 branch WAN with unusual
-challenges related to IP multicast traffic engineering, QoS, and offline system
+challenges related to IP multicast traffic engineering, QoS, and offline device
 challenges. Maintaining a system where easily 1/3 of it (emergency response
 stuff) is disconnected or powered off is... Interesting.
 - Wrote internal tooling in Ansible/Bash/Go/Terraform/Perl/Python to automate
@@ -50,8 +50,8 @@ cloud migrations, software development.
 It was during my Network consulting tenure at BT that I completed my pivot to
 network engineering. The constant stream of different projects, new customer
 environments, and vendor product releases, combined with being expected to be
-the expert in customer meetings was exhilarating and gave valuable perspective
-on effective network design and ops practices.
+the expert in customer meetings was exhilarating and left me with valuable
+insight into effective network designs and ops practices.
 
 - Pre-sales, post-sales and network project work at BT INS (a Cisco Gold VAR)
 - Designed and implemented data center projects up to ~20k user access ports and
@@ -104,7 +104,7 @@ with regular international engagements for emergency break-fix and
 troubleshooting. [I've got stories.](https://www.fragmentationneeded.net/2012/01/dispatches-from-trading-floor-moldudp.html)
 
 
-**New York Times Company Digital ([boston.com](https://boston.com)) Jun 2000 - Apr 2001**  
+**New York Times Company Digital ([boston.com](https://boston.com)) Jun 1999 - Feb 2001**  
 *Manager Internet Systems Engineering*
 
 This was the first role where I got to play architect and own responsibility for
@@ -119,9 +119,9 @@ managed every facet of this project from interviewing colo providers, physically
 moving the gear, keeping the environments in sync, traffic engineering during
 the migration, etc...
 - The new architecture was extremely scalable and resilient with multiple layers
-of cacheing hardware SSL offload, two stages of workload-based traffic steering
+of caching, hardware SSL offload, two stages of workload-based traffic steering
 and cheap cattle-style servers doing the heavy lifting. After my departure, on
-9/11 this environment saw traffic levels at 15 times the previous high-water
+9/11, this environment saw traffic levels at 15 times the previous high-water
 mark (previously set during the Boston marathon) and remained responsive while
 many other news sites were unusable.
 
@@ -130,10 +130,10 @@ many other news sites were unusable.
 *Enlisted software developer / UNIX administrator*
 
 I'd used UNIX systems and done software development in college and as an intern
-at a high-energy physics lab, but the Air Force *made* me a sysadmin. There was
-a ~6 month delay waiting for my security clearance; I spent half of it in on a
-Sun Microsystems campus, absorbing every class they had to offer, and the other
-half in an unclassified lab environment. I was very fortunate.
+at a high-energy physics lab, but the Air Force *made me a sysadmin*. There was
+a ~6 month delay waiting for my security clearance; I spent half of it at a Sun
+Microsystems campus, absorbing every class they had to offer, and the other half
+in an unclassified lab environment. I was very fortunate.
 - Began as a junior member of a sysadmin team responsible for a network with
 ~1500 users, ~500 workstations and a variety of servers ranging from Sun Sparc 1
 through e6500.
