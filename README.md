@@ -168,7 +168,7 @@ a customer's product.
 plugin which provides records to the `hosts` system database using
 application-specific knowledge about the state and availability of a fleet of
 IoT-like appliances. This project is in two parts:
-  - A userspace filesystem module which renders `/etc/hosts`-like file from
+  - A userspace filesystem module which renders an `/etc/hosts`-like file from
   in-memory state of the IoT universe each time the file is accessed. Written in
   Go.
   - NSS plugin (mention it under `hosts` in `/etc/nsswitch.conf` which consumes
